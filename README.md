@@ -2,7 +2,7 @@
 
 # 欢迎来到 🐶 InstructLab 项目
 
-![Banner](images/instructlab-banner.png)
+![Banner](docs/images/instructlab-banner.png)
 
 InstructLab 是一个与模型无关的开源 AI 项目，旨在促进对大语言模型(LLMs)的贡献。
 
